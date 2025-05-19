@@ -16,7 +16,7 @@ contribute code, please `fork the code`_ and `submit a pull request`_.
 Set up your development environment
 ===================================
 
-First, ensure that you have Python 3 and pip installed. To do this, run:
+First test, ensure that you have Python 3 and pip installed. To do this, run:
 
 .. tabs::
 
